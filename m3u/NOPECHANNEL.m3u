@@ -1,102 +1,110 @@
 #EXTM3U
 #EXTINF:-1,#### Portugal Channels ####
-#EXTINF:-1,PT: TVI 24
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2231.ts
-#EXTINF:-1,PT: TVI
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2232.ts
-#EXTINF:-1,PT: TV Cine 3 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2233.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2236.ts
-#EXTINF:-1,PT: SYFY
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2237.ts
-#EXTINF:-1,PT: SIC Radical
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2228.ts
-#EXTINF:-1,PT: SIC Noticias
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2225.ts
-#EXTINF:-1,PT: SIC MULHER
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2226.ts
-#EXTINF:-1,PT: SIC HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2224.ts
-#EXTINF:-1,PT: SIC CARAS
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2227.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2219.ts
-#EXTINF:-1,PT: RTP 3
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2217.ts
-#EXTINF:-1,PT: Odisseia
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2230.ts
-#EXTINF:-1,PT: NBA HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2250.ts
-#EXTINF:-1,PT: MOV HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2238.ts
-#EXTINF:-1,PT: Motors TV
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2252.ts
-#EXTINF:-1,PT: Hollywood
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2221.ts
-#EXTINF:-1,PT: Fox HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2229.ts
-#EXTINF:-1,PT: Fox Crime
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2223.ts
-#EXTINF:-1,PT: FOX COMEDY
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2242.ts
-#EXTINF:-1,PT: Eurosport News
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2247.ts
-#EXTINF:-1,PT: Canal Q
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2222.ts
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2244.ts
-#EXTINF:-1,PT: AXN Black HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2241.ts
-#EXTINF:-1,PT: TV Series
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1804.ts
-#EXTINF:-1,PT: SPORTTV 5 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1807.ts
-#EXTINF:-1,PT: SPORTTV 4 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1808.ts
-#EXTINF:-1,PT: SPORTTV 3 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1809.ts
-#EXTINF:-1,PT: SPORTTV 2 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1810.ts
-#EXTINF:-1,PT: SPORTTV 1 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1811.ts
-#EXTINF:-1,PT: Sporting TV
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2390.ts
-#EXTINF:-1,PT: Sport TV+
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2391.ts
-#EXTINF:-1,PT: RTP 2
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1814.ts
-#EXTINF:-1,PT: RTP 1
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1815.ts
-#EXTINF:-1,PT: Plus TVI
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1817.ts
-#EXTINF:-1,PT: Niclelodeon
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1820.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1821.ts
-#EXTINF:-1,PT: FOX Movies
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1822.ts
-#EXTINF:-1,PT: Fox Life HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1823.ts
-#EXTINF:-1,PT: FOX Crime HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1824.ts
-#EXTINF:-1,PT: PORTO CANAL
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1700.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1703.ts
-#EXTINF:-1,PT: MOTORVISION
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1707.ts
-#EXTINF:-1,PT: JIMJAM
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1710.ts
-#EXTINF:-1,PT: FOX LIFE
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1713.ts
-#EXTINF:-1,PT: TVCINE 1 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1698.ts
-#EXTINF:-1,PT: TVCINE 2 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1697.ts
-#EXTINF:-1,PT: TVCINE 4 HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1695.ts
-#EXTINF:-1,PT: TV SERIES HD
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1699.ts
-#EXTINF:-1,PT: TLC
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/879.ts
+#EXTINF:-1,[PT]AXN.WHITE.HD
+http://176.31.231.207:8000/live/safari434/464safari/1213.ts
+#EXTINF:-1,[PT]Caça e Pesca
+http://176.31.231.207:8000/live/safari434/464safari/1214.ts
+#EXTINF:-1,[PT]CARTOON_NETWORK
+http://176.31.231.207:8000/live/safari434/464safari/1215.ts
+#EXTINF:-1,[PT]CHELSEA_TV
+http://176.31.231.207:8000/live/safari434/464safari/1216.ts
+#EXTINF:-1,[PT]CINE.MUNDO
+http://176.31.231.207:8000/live/safari434/464safari/1217.ts
+#EXTINF:-1,[PT]CmTV
+http://176.31.231.207:8000/live/safari434/464safari/1218.ts
+#EXTINF:-1,[PT]DISCOVERY
+http://176.31.231.207:8000/live/safari434/464safari/1219.ts
+#EXTINF:-1,[PT]Discovery.Showcase
+http://176.31.231.207:8000/live/safari434/464safari/1220.ts
+#EXTINF:-1,[PT]E_ENTERTAINMENT
+http://176.31.231.207:8000/live/safari434/464safari/1221.ts
+#EXTINF:-1,[PT]EUROSPORT1
+http://176.31.231.207:8000/live/safari434/464safari/1222.ts
+#EXTINF:-1,[PT]FOX-COMEDY-HD
+http://176.31.231.207:8000/live/safari434/464safari/1224.ts
+#EXTINF:-1,[PT]Fox-Movies
+http://176.31.231.207:8000/live/safari434/464safari/1226.ts
+#EXTINF:-1,[PT]FOX.COMEDY.HD
+http://176.31.231.207:8000/live/safari434/464safari/1227.ts
+#EXTINF:-1,[PT]FOX.CRIME.HD
+http://176.31.231.207:8000/live/safari434/464safari/1228.ts
+#EXTINF:-1,[PT]Globo
+http://176.31.231.207:8000/live/safari434/464safari/1230.ts
+#EXTINF:-1,[PT]Globo.Premium
+http://176.31.231.207:8000/live/safari434/464safari/1231.ts
+#EXTINF:-1,[PT]HOLLYWOOD-HD
+http://176.31.231.207:8000/live/safari434/464safari/1233.ts
+#EXTINF:-1,[PT]JIMJAM
+http://176.31.231.207:8000/live/safari434/464safari/1234.ts
+#EXTINF:-1,[PT]Kombat.Sport
+http://176.31.231.207:8000/live/safari434/464safari/1235.ts
+#EXTINF:-1,[PT]MOV.HD
+http://176.31.231.207:8000/live/safari434/464safari/1236.ts
+#EXTINF:-1,[PT]MTV.PORTUGAL
+http://176.31.231.207:8000/live/safari434/464safari/1237.ts
+#EXTINF:-1,[PT]National.Geographic.Channel
+http://176.31.231.207:8000/live/safari434/464safari/1238.ts
+#EXTINF:-1,[PT]Nickelodeon
+http://176.31.231.207:8000/live/safari434/464safari/1239.ts
+#EXTINF:-1,[PT]Odisseia
+http://176.31.231.207:8000/live/safari434/464safari/1240.ts
+#EXTINF:-1,[PT]PFC
+http://176.31.231.207:8000/live/safari434/464safari/1241.ts
+#EXTINF:-1,[PT]REAL_MADRID
+http://176.31.231.207:8000/live/safari434/464safari/1242.ts
+#EXTINF:-1,[PT]RTP_3HD
+http://176.31.231.207:8000/live/safari434/464safari/1243.ts
+#EXTINF:-1,[PT]RTP_AFRICA
+http://176.31.231.207:8000/live/safari434/464safari/1244.ts
+#EXTINF:-1,[PT]RTP_INTERNACIONAL
+http://176.31.231.207:8000/live/safari434/464safari/1245.ts
+#EXTINF:-1,[PT]RTP_MADEIRA
+http://176.31.231.207:8000/live/safari434/464safari/1246.ts
+#EXTINF:-1,[PT]SIC
+http://176.31.231.207:8000/live/safari434/464safari/1248.ts
+#EXTINF:-1,[PT]SIC_MULHER
+http://176.31.231.207:8000/live/safari434/464safari/1249.ts
+#EXTINF:-1,[PT]SPORT.TV. .HD
+http://176.31.231.207:8000/live/safari434/464safari/1252.ts
+#EXTINF:-1,[PT]SPORT.TV.4HD
+http://176.31.231.207:8000/live/safari434/464safari/1253.ts
+#EXTINF:-1,[PT]SPORTTV-1-HD
+http://176.31.231.207:8000/live/safari434/464safari/1254.ts
+#EXTINF:-1,[PT]SPORTTV-3-HD
+http://176.31.231.207:8000/live/safari434/464safari/1256.ts
+#EXTINF:-1,[PT]Trace.Urban
+http://176.31.231.207:8000/live/safari434/464safari/1257.ts
+#EXTINF:-1,[PT]TV_Series_HD
+http://176.31.231.207:8000/live/safari434/464safari/1258.ts
+#EXTINF:-1,[PT]TVCINE-1-HD
+http://176.31.231.207:8000/live/safari434/464safari/1260.ts
+#EXTINF:-1,[PT]TVCine-3-HD
+http://176.31.231.207:8000/live/safari434/464safari/1262.ts
+#EXTINF:-1,[PT]TVI.Ficção
+http://176.31.231.207:8000/live/safari434/464safari/1264.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-1_HD
+http://176.31.231.207:8000/live/safari434/464safari/1005.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-11_HD
+http://176.31.231.207:8000/live/safari434/464safari/1007.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-12_HD
+http://176.31.231.207:8000/live/safari434/464safari/1006.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-2_HD
+http://176.31.231.207:8000/live/safari434/464safari/1004.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-3_HD
+http://176.31.231.207:8000/live/safari434/464safari/1003.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-4_HD
+http://176.31.231.207:8000/live/safari434/464safari/1002.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-5_HD
+http://176.31.231.207:8000/live/safari434/464safari/1001.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-6_HD
+http://176.31.231.207:8000/live/safari434/464safari/1000.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-7_HD
+http://176.31.231.207:8000/live/safari434/464safari/999.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-8_HD
+http://176.31.231.207:8000/live/safari434/464safari/998.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS-9_HD
+http://176.31.231.207:8000/live/safari434/464safari/997.ts
+#EXTINF:-1,DELUXE_beIN-SPORTS.10_HD
+http://176.31.231.207:8000/live/safari434/464safari/996.ts
+#EXTINF:-1,FR | BIS_TV AB MOTEURS HD
+http://176.31.231.207:8000/live/safari434/464safari/981.ts
